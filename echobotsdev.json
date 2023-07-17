@@ -9,11 +9,6 @@
 			"id": "637450301728620574"
 		}
 	],
-	"background": {
-		"blur": "1",
-		"url": "https://i.ibb.co/DQtDxTw/D4-CA75-B4-9698-453-B-915-E-C08-DFF3-C126-D.png",
-		"alpha": "0.69"
-	},
 	"theme_color_map": {
 		"HEADER_PRIMARY": [ "#FFFFFF", "#FFFFFF" ],
 		"HEADER_SECONDARY": [ "#FFFFFF", "#FFFFFF" ],
