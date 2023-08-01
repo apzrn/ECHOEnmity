@@ -1,9 +1,9 @@
 {
-	"name": "echobots",
-	"author": "apzrn",
-	"version": "1.0.0",
-	"description": "ECHO Bots Theme",
-	"authors": [ 
+	"name": "echobotsoled",
+	"version": "1.0",
+	"description": "ECHO Bots OLED",
+	"color": "#3E42C6",
+	"authors": [
 		{
 			"name": "apzrn",
 			"id": "637450301728620574"
@@ -52,8 +52,9 @@
 			"PRIMARY_DARK_700": "#3E42C6",
 			"PRIMARY_DARK_800": "#000000",
 			"PRIMARY_DARK_900": "#0070C0",
-			"WHITE": "#0
-	"unsafe_colors": {
-		"CHAT_GREY": "#1A1A1A"
-	}
+			"WHITE": "#000000"
+		},
+		"unsafe_colors": {
+			"CHAT_GREY": "#000000"
+		}
 }
