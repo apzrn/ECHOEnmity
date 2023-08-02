@@ -35,7 +35,7 @@
 		"SCROLLBAR_AUTO_THUMB": [ "rgba(55, 55, 55, 0.5)", "rgba(55, 55, 55, 0.5)" ],
 		"SCROLLBAR_AUTO_TRACK": [ "transparent", "transparent" ],
 		"CHANNELTEXTAREA_BACKGROUND": [ "transparent", "transparent" ],
-		"CHANNEL_ICON": [ "#3E42C6", "#3E42C6" ],
+		"CHANNEL_ICON": [ "#7F7F7F", "#7F7F7F" ],
 		"CHANNELS_DEFAULT": [ "#7F7F7F", "#7F7F7F" ]
 	},
 		"colours": {
