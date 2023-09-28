@@ -29,7 +29,7 @@
 		"BACKGROUND_NESTED_FLOATING": [ "#000000", "#000000" ],
 		"BACKGROUND_MODIFIER_ACTIVE": [ "rgba(255, 255, 255, 0.4)", "rgba(255, 255, 255, 0.4)" ],
 		"BACKGROUND_MODIFIER_SELECTED": [ "rgba(255, 255, 255, 0.2)", "rgba(255, 255, 255, 0.2)" ],
-		"BACKGROUND_MODIFIER_ACCENT": [ "rgba(79, 84, 92, 0.48)", "rgba(79, 84, 92, 0.48)" ],
+		"BACKGROUND_MODIFIER_ACCENT": [ "#000000", "#000000" ],
 		"SCROLLBAR_THIN_THUMB": [ "rgba(55, 55, 55, 0.5)", "rgba(55, 55, 55, 0.5)" ],
 		"SCROLLBAR_THIN_TRACK": [ "transparent", "transparent" ],
 		"SCROLLBAR_AUTO_THUMB": [ "rgba(55, 55, 55, 0.5)", "rgba(55, 55, 55, 0.5)" ],
