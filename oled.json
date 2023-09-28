@@ -1,0 +1,57 @@
+{
+	"name": "echobots",
+	"author": "apzrn",
+	"version": "1.0",
+	"description": "ECHO Bots",
+	"authors": [ 
+		{
+			"name": "apzrn",
+			"id": "637450301728620574"
+		}
+	],
+	"theme_color_map": {
+		"HEADER_PRIMARY": [ "#FFFFFF", "#FFFFFF" ],
+		"HEADER_SECONDARY": [ "#FFFFFF", "#FFFFFF" ],
+		"TEXT_NORMAL": [ "#FFFFFF", "#FFFFFF" ],
+		"TEXT_MUTED": [ "#FFFFFF", "#FFFFFF" ],
+		"INTERACTIVE_NORMAL": [ "#3E42C6", "#FFFFFF" ],
+		"INTERACTIVE_HOVER": [ "#3E42C6", "#FFFFFF" ],
+		"INTERACTIVE_ACTIVE": [ "#FFFFFF", "#FFFFFF" ],
+		"INTERACTIVE_MUTED": [ "#3E42C6", "#3E42C6" ],
+		"BACKGROUND_PRIMARY": [ "#000000", "#000000" ],
+		"BACKGROUND_SECONDARY": [ "#000000", "#000000" ],
+		"BACKGROUND_SECONDARY_ALT": [ "#000000", "#000000" ],
+		"BACKGROUND_TERTIARY": [ "#000000", "#000000" ],
+		"BACKGROUND_ACCENT": [ "#000000", "#000000" ],
+		"BACKGROUND_FLOATING": [ "#000000", "#000000" ],
+		"BACKGROUND_MOBILE_PRIMARY": [ "#000000", "#000000" ],
+		"BACKGROUND_MOBILE_SECONDARY": [ "#000000", "#000000" ],
+		"BACKGROUND_NESTED_FLOATING": [ "#000000", "#000000" ],
+		"BACKGROUND_MODIFIER_ACTIVE": [ "rgba(255, 255, 255, 0.4)", "rgba(255, 255, 255, 0.4)" ],
+		"BACKGROUND_MODIFIER_SELECTED": [ "rgba(255, 255, 255, 0.2)", "rgba(255, 255, 255, 0.2)" ],
+		"BACKGROUND_MODIFIER_ACCENT": [ "rgba(79, 84, 92, 0.48)", "rgba(79, 84, 92, 0.48)" ],
+		"SCROLLBAR_THIN_THUMB": [ "rgba(55, 55, 55, 0.5)", "rgba(55, 55, 55, 0.5)" ],
+		"SCROLLBAR_THIN_TRACK": [ "transparent", "transparent" ],
+		"SCROLLBAR_AUTO_THUMB": [ "rgba(55, 55, 55, 0.5)", "rgba(55, 55, 55, 0.5)" ],
+		"SCROLLBAR_AUTO_TRACK": [ "transparent", "transparent" ],
+		"CHANNELTEXTAREA_BACKGROUND": [ "transparent", "transparent" ],
+		"CHANNEL_ICON": [ "#7F7F7F", "#7F7F7F" ],
+		"CHANNELS_DEFAULT": [ "#7F7F7F", "#7F7F7F" ]
+	},
+	"colours": {
+		"PRIMARY_DARK": "#FF0800",
+		"PRIMARY_DARK_100": "#FFFFFF",
+		"PRIMARY_DARK_300": "#3E42C6",
+		"PRIMARY_DARK_360": "#3E42C6",
+		"PRIMARY_DARK_400": "#FFFFFF",
+		"PRIMARY_DARK_500": "#3E42C6",
+		"PRIMARY_DARK_600": "#000000",
+		"PRIMARY_DARK_630": "#000000",
+		"PRIMARY_DARK_700": "#000000",
+		"PRIMARY_DARK_800": "#000000",
+		"WHITE": "#FFFFFF"
+	},
+	"unsafe_colors": {
+		"CHAT_GREY": "#1A1A1A"
+	}
+}
